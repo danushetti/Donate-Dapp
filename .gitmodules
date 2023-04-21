@@ -1,0 +1,3 @@
+[submodule "Donate"]
+	path = Donate
+	url = https://github.com/danushetti/Donate.git
